@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "app.auth.token.key",
+  "type": "java.lang.String",
+  "description": "A description for 'app.auth.token.key'"
+}]}

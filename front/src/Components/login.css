@@ -1,0 +1,12 @@
+.background {
+    
+  }
+
+    label{
+        color: #333;
+       /* Couleur du texte */
+        font-size: 14px; /* Taille de la police */
+        font-weight: bold; /* Épaisseur de la police */
+        font-family: 'Roboto', sans-serif;
+        text-align: left;
+    }

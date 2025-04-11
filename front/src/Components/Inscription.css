@@ -1,0 +1,13 @@
+.rectangle {
+    width: 1800px; /* Largeur du rectangle */
+    height: 300px; /* Hauteur du rectangle */
+   background-color: #FFFFFF; /* Couleur du rectangle */
+  }
+  label{
+    color: #333;
+   /* Couleur du texte */
+    font-size: 16px; /* Taille de la police */
+    font-weight: bold; /* Épaisseur de la police */
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
