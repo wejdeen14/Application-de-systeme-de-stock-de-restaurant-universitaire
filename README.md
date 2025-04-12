@@ -1,4 +1,4 @@
-# 🍽️ Application de Gestion de Stock - Restaurant Universitaire
+# 🍽️ Application de Gestion de Stock - Restaurant Universitaire 
 
 Cette application web permet de gérer de manière efficace et automatisée les opérations liées au stock d’un restaurant universitaire. Développée avec **Spring Boot** pour le back-end, **React** pour le front-end et **WebSocket** pour les notifications en temps réel, cette solution offre une gestion complète des stocks, une planification des menus, le calcul des coûts des repas, ainsi que des fonctionnalités avancées pour un suivi optimisé.
 
